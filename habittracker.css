@@ -1,0 +1,33 @@
+body {
+	margin:0;
+	padding:0;
+	font-family: Handlee;
+	height:100%;
+	text-align:center;
+	background-color: lightblue;
+}
+
+.head{
+	padding:5px;
+	background-color:dodgerblue;
+	border:2px solid white;
+}
+
+.list{
+	margin-top:5px;
+	padding:5px;
+	width:50%;
+	margin:auto;
+	background-color:white;
+	border:3px solid black;
+	text-align:center;
+}
+li{
+	font-size:30px;
+	font-family:Handlee;
+}
+
+.foot{
+	position:relative;
+	margin-bottom:0px;
+}
